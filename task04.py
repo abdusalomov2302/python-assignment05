@@ -1,0 +1,5 @@
+son1=int(input("birinchi sonni kiriting: "))
+son2=int(input("ikkinchi sonni kiriting: "))
+son3=int(input("uchinchi sonni kiriting: "))
+k=(son1+son2+son3)/3
+print("3 ta sonning o'rtachasi",k)
